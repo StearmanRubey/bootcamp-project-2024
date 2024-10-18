@@ -12,7 +12,7 @@ body {
 }
 
 main {
-  padding: 0 20px 40px 20px;
+  padding: 0 15px 35px 15px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -144,7 +144,7 @@ textarea {
 .navbar {
   position: -webkit-sticky;
   top: 0;
-  width: 100%;
+  width: auto;
   height: 40px;
   z-index: 10;
 
